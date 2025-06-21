@@ -167,29 +167,7 @@ Replace images in the `assets/images/` directory to customize:
 
 ## 📄 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is licensed under the MIT License – see the [MIT](LICENSE) file for details.
 
-## 🤝 Contributing
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📞 Support
-
-For support or questions about this project, please contact:
-- Email: [your-email@example.com]
-- Website: [your-website.com]
-
-## 🙏 Acknowledgments
-
-- Icons provided by [Unicons](https://iconscout.com/unicons)
-- Fonts from [Google Fonts](https://fonts.google.com/)
-- Animation library by [GreenSock](https://greensock.com/)
-- Slider functionality by [Swiper](https://swiperjs.com/)
-
----
 
 **Made with ❤️ for pizza lovers everywhere!** 
